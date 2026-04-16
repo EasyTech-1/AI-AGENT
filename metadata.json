@@ -1,0 +1,6 @@
+{
+  "name": "Dental Studio Receptionist",
+  "description": "Virtual dental receptionist Lisa for Dental Studio in Dar es Salaam, providing professional assistance and appointment scheduling.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI Chatbot", "Voice Conversations", "Appointment Scheduling"]
+}
